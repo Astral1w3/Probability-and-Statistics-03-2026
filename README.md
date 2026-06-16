@@ -1,12 +1,12 @@
 # Appunti di Probabilità e Statistica
 
-Questi appunti coprono i concetti fondamentali trattati nel corso di Probabilità e Statistica presso l'**Università degli Studi di Napoli Federico II**. Sono stati scritti interamente in \LaTeX\ e resi open-source per favorire la condivisione e lo studio collaborativo.
+Questi appunti coprono i concetti fondamentali trattati nel corso di Probabilità e Statistica presso l'**Università degli Studi di Napoli Federico II** (Inizio corso Marzo 2026). Sono stati scritti interamente in \LaTeX\ e resi open-source per favorire la condivisione e lo studio collaborativo.
 
 ## ⚠️ Disclaimer
 > [!WARNING]
 > Questi appunti sono stati redatti a scopo di studio personale e non mi assumo alcuna responsabilità riguardo all'assoluta correttezza o completezza dei contenuti.
 
-## 🤝 Come Contribuire
+## Come Contribuire
 Tutto il codice sorgente utilizzato per generare questo documento è aperto e modificabile. Se trovi degli errori tipografici, concetti da chiarire, o vuoi semplicemente migliorare e arricchire questo PDF, sei liberissimo di farlo e ogni contributo è il benvenuto!
 
 1. Fai un **Fork** della repository
@@ -15,7 +15,7 @@ Tutto il codice sorgente utilizzato per generare questo documento è aperto e mo
 4. Apri una **Pull Request**
 
 ## 🛠 Come compilare il codice
-Se desideri generare o aggiornare il file PDF in locale dopo una modifica, è sufficiente utilizzare il tuo compilatore LaTeX preferito (ad esempio `pdflatex`):
+Se desideri generare o aggiornare il file PDF in locale dopo una modifica, è sufficiente utilizzare un compilatore LaTeX (ad esempio `pdflatex`):
 
 ```bash
 pdflatex main.tex
