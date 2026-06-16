@@ -14,6 +14,11 @@ Tutto il codice sorgente utilizzato per generare questo documento è aperto e mo
 3. Assicurati che il codice compili correttamente
 4. Apri una **Pull Request**
 
+### Aggiungere o modificare un capitolo
+Il progetto ha una struttura modulare per mantenere il codice ordinato:
+- Per aggiungere un capitolo semplice, basta creare un nuovo file `.tex` all'interno della cartella `chapters/` e includerlo in `chapters/index.tex` (es. `\input{chapters/nuovo_capitolo.tex}`).
+- Se un capitolo è corposo e contiene molti **sottocapitoli**, è consigliabile creare una cartella dedicata (es. `chapters/07_nuovo_argomento/`), inserire al suo interno un file aggregatore `chapter.tex` che includerà i vari sotto-paragrafi, e infine richiamare questo file in `chapters/index.tex`.
+
 ## 🛠 Come compilare il codice
 Se desideri generare o aggiornare il file PDF in locale dopo una modifica, è sufficiente utilizzare un compilatore LaTeX (ad esempio `pdflatex`):
 
