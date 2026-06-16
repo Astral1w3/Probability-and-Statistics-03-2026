@@ -2,7 +2,6 @@
 
 Questi appunti coprono i concetti fondamentali trattati nel corso di Probabilità e Statistica presso l'**Università degli Studi di Napoli Federico II** (Inizio corso Marzo 2026). Sono stati scritti interamente in \LaTeX\ e resi open-source per favorire la condivisione e lo studio collaborativo.
 
-## ⚠️ Disclaimer
 > [!WARNING]
 > Questi appunti sono stati redatti a scopo di studio personale e non mi assumo alcuna responsabilità riguardo all'assoluta correttezza o completezza dei contenuti.
 
